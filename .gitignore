@@ -1,3 +1,5 @@
 *.pdf
 ffy.py
 streamlit_app.py
+
+.env
